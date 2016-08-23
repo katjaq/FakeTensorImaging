@@ -1,4 +1,5 @@
 # Hypothesis-driven white matter tractography from T1-weighted MRI images
+Project for Brainhack Vienna, 18-20 September 2016
 
 Anastasia Osoianu, Charl Linssen, Katja Heuer, Roberto Toro
 
